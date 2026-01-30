@@ -35,9 +35,6 @@
             "com.tencent.mobileqq"
         ],
         "isSkipItsVideoStabilization": true,
-        "isSkipfusion": true,
-        "isSkipPrivateProcessing": true,
-        "isSkipYUVProcessing": true,
         "feature_motor_enable": false,
         "feature_aps_enable": true,
         "feature_auth_enable": true,
