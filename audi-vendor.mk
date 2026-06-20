@@ -895,6 +895,12 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/audi/proprietary/odm/etc/usecaseKvManager.xml:$(TARGET_COPY_OUT_ODM)/etc/usecaseKvManager.xml \
     vendor/oneplus/audi/proprietary/odm/etc/wifi/qca6750/bdwlan.elf:$(TARGET_COPY_OUT_ODM)/etc/wifi/qca6750/bdwlan.elf \
     vendor/oneplus/audi/proprietary/odm/etc/wifi/qca6750/regdb.bin:$(TARGET_COPY_OUT_ODM)/etc/wifi/qca6750/regdb.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_haptic_170.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_170.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_haptic_170_soft.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_170_soft.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_haptic_235.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_haptic_235_19161.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_haptic_235_19161.bin \
+    vendor/oneplus/audi/proprietary/odm/firmware/aw8697_rtp.bin:$(TARGET_COPY_OUT_ODM)/firmware/aw8697_rtp.bin \
     vendor/oneplus/audi/proprietary/odm/firmware/fastchg/23803/charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/23803/charging_hyper_mode_config.txt \
     vendor/oneplus/audi/proprietary/odm/firmware/fastchg/bms_heating_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/bms_heating_config.txt \
     vendor/oneplus/audi/proprietary/odm/firmware/fastchg/charge_time_config.csv:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/charge_time_config.csv \
